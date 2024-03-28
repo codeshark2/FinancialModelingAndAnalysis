@@ -1,4 +1,4 @@
-# FinancialModelingAndAnalysis-Ft.1
+# Financial Modeling and Analysis
 
 Objective: Implement and analyze various financial models for chosen financial applications.
 1. ARIMA
